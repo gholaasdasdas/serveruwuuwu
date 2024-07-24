@@ -1,1 +1,8 @@
-[]
+[
+  {
+    "uuid": "98bedba6-0192-3507-a6a7-3c7e6ebf05e1",
+    "name": "Grasita",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]

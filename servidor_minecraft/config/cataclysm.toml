@@ -40,7 +40,7 @@
 	WASWMissileCooldown = 40
 	#WASW's Wither Missile's Damage
 	#Range: 0.0 ~ 1000000.0
-	"WASW's WitherMissiledamage" = 16.0
+	"WASW's WitherMissiledamage" = 20.0
 	#Wither Assault Shoulder Weapon's Howitzer Cooldown
 	#Range: 0 ~ 1000000
 	WASWHowitzerCooldown = 100
@@ -57,37 +57,37 @@
 ["Entity damage"]
 	#Void Rune's Damage
 	#Range: 0.0 ~ 1000000.0
-	Voidrunedamage = 7.0
+	Voidrunedamage = 10.0
 	#Ashen Breath's Damage
 	#Range: 0.0 ~ 1000000.0
-	Ashenbreathdamage = 4.0
+	Ashenbreathdamage = 9.0
 	#Death Laser's Damage
 	#Range: 0.0 ~ 1000000.0
-	DeathLaserdamage = 5.0
+	DeathLaserdamage = 8.0
 	#Death Laser's Hp Damage
 	#Range: 0.0 ~ 1.0
-	DeathLaserHpdamage = 0.05
+	DeathLaserHpdamage = 0.1
 	#Player's Laser's Damage
 	#Range: 0.0 ~ 1000000.0
-	Laserdamage = 7.0
+	Laserdamage = 9.0
 	#Blazing Bone's Damage
 	#Range: 0.0 ~ 1000000.0
-	BlazingBonedamage = 5.0
+	BlazingBonedamage = 6.0
 	#Lionfish Spike's Damage
 	#Range: 0.0 ~ 1000000.0
-	LionfishSpikedamage = 4.0
+	LionfishSpikedamage = 7.0
 	#Wither Howizter's Damage
 	#Range: 0.0 ~ 1000000.0
 	WitherHowizterdamage = 8.0
 	#Dimensional Rift's Damage
 	#Range: 0.0 ~ 1000000.0
-	DimensionalRiftdamage = 10.0
+	DimensionalRiftdamage = 15.0
 	#Wither Homing Missile's Damage
 	#Range: 0.0 ~ 1000000.0
 	WitherHomingMissiledamage = 3.0
 	#Abyss Blast's Damage
 	#Range: 0.0 ~ 1000000.0
-	AbyssBlastdamage = 10.0
+	AbyssBlastdamage = 15.0
 	#Abyss Blast's Hp Damage
 	#Range: 0.0 ~ 1.0
 	AbyssBlastHpdamage = 0.1
@@ -99,27 +99,27 @@
 	Lavabombradius = 2
 	#Amethyst Cluster's Damage
 	#Range: 0.0 ~ 1000000.0
-	"Amethyst Cluster Damage" = 12.0
+	"Amethyst Cluster Damage" = 18.0
 	#Sandstorm's Damage
 	#Range: 0.0 ~ 1000000.0
 	"Sandstorm Damage" = 5.0
 	#Ancient Desert Stele's Damage
 	#Range: 0.0 ~ 1000000.0
-	"Ancient Desert Stele Damage" = 18.0
+	"Ancient Desert Stele Damage" = 24.0
 
 ["Ender Guardian"]
 	#EnderGuardian's Health Multiplier
 	#Range: 0.0 ~ 1000000.0
-	EnderGuardianHealthMultiplier = 2.0
+	EnderGuardianHealthMultiplier = 4.0
 	#EnderGuardian's Damage Multiplier
 	#Range: 0.0 ~ 1000000.0
-	EnderGuardianDamageMultiplier = 2.0
+	EnderGuardianDamageMultiplier = 4.0
 	#EnderGuardian's DamageCap
 	#Range: 0.0 ~ 1000000.0
 	EnderGuardianDamageCap = 22.0
 	#EnderGuardian's Healing with out target
 	#Range: 0.0 ~ 1000000.0
-	EnderGuardianNatureHealing = 10.0
+	EnderGuardianNatureHealing = 20.0
 	#Ender guardian's block breaking ignore the MobGriefing
 	EnderguardianBlockBreaking = true
 	#Guardian's Immune to Long distance attack range.
@@ -127,13 +127,13 @@
 	"Guardian's prevent attacks from far away Range" = 12.0
 	#Guardian's gravity Punch Hp Damage
 	#Range: 0.0 ~ 1.0
-	"Guardian's gravity Punch Hp Damage" = 0.05
+	"Guardian's gravity Punch Hp Damage" = 0.1
 	#Guardian's Teleport attack Hp Damage
 	#Range: 0.0 ~ 1.0
-	"Guardian's Teleport attack Hp Damage" = 0.05
+	"Guardian's Teleport attack Hp Damage" = 0.1
 	#Guardian's Punch Hp Damage
 	#Range: 0.0 ~ 1.0
-	"Guardian's knockback Hp Damage" = 0.06
+	"Guardian's knockback Hp Damage" = 0.1
 	#Guardian's Uppercut Hp Damage
 	#Range: 0.0 ~ 1.0
 	"Guardian's Uppercut Hp Damage" = 0.1
@@ -162,13 +162,13 @@
 	Lavabombamount = 3
 	#Monstrosity's Health Multiplier
 	#Range: 0.0 ~ 1000000.0
-	MonstrosityHealthMultiplier = 2.5
+	MonstrosityHealthMultiplier = 3.5
 	#Monstrosity's Damage Multiplier
 	#Range: 0.0 ~ 1000000.0
-	MonstrosityDamageMultiplier = 1.5
+	MonstrosityDamageMultiplier = 3.5
 	#Monstrosity's Healing Multiplier
 	#Range: 0.0 ~ 1000000.0
-	MonstrosityHealingMultiplier = 1.0
+	MonstrosityHealingMultiplier = 3.0
 	# Monstrosity's Healing with out target
 	#Range: 0.0 ~ 1000000.0
 	MonstrosityNatureHealing = 10.0
@@ -200,16 +200,16 @@
 [Ignis]
 	#Ignis's Health Multiplier
 	#Range: 0.0 ~ 1000000.0
-	IgnisHealthMultiplier = 3.0
+	IgnisHealthMultiplier = 5.0
 	#Ignis's Damage Multiplier
 	#Range: 0.0 ~ 1000000.0
-	IgnisDamageMultiplier = 2.0
+	IgnisDamageMultiplier = 5.0
 	#Ignis's Healing with out target
 	#Range: 0.0 ~ 1000000.0
-	IgnisNatureHealing = 10.0
+	IgnisNatureHealing = 35.0
 	#Ignis's Healing Multiplier
 	#Range: 0.0 ~ 1000000.0
-	IgnisHealingMultiplier = 1.0
+	IgnisHealingMultiplier = 2.0
 	#Ignis's Immune to Long distance attack range.
 	#Range: 1.0 ~ 1000000.0
 	"Ignis's prevent attacks from far away Range" = 15.0
@@ -269,13 +269,13 @@
 ["The Leviathan"]
 	#Leviathan's Health Multiplier
 	#Range: 0.0 ~ 1000000.0
-	LeviathanHealthMultiplier = 2.0
+	LeviathanHealthMultiplier = 5.0
 	#Leviathan's Damage Multiplier
 	#Range: 0.0 ~ 1000000.0
-	LeviathanDamageMultiplier = 1.5
+	LeviathanDamageMultiplier = 3.0
 	#Leviathan's Healing with out target
 	#Range: 0.0 ~ 1000000.0
-	LeviathanNatureHealing = 10.0
+	LeviathanNatureHealing = 50.0
 	#Leviathan's Immune to Long distance attack range.
 	#Range: 1.0 ~ 1000000.0
 	"Leviathan's prevent attacks from far away Range" = 38.0
